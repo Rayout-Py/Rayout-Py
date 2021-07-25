@@ -16,3 +16,6 @@ A boring person with a craving for understanding and desire for gettin' that bre
 <b>IDEs</b><br>
 : 🌸VScode<br>
 : 🌸Visual Studio<br>
+
+
+<link href='//cdn.jsdelivr.net/npm/devicons@1.8.0/css/devicons.min.css' rel='stylesheet'>
