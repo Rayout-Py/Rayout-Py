@@ -1,6 +1,7 @@
 
 ```c#
 namespace Bio                                    // This is my little slice of life.
+{ 
  class ReadMe                                    // Mainly code I'm studying or working on for work is uploaded here.
  {
    static void Main(str[] args)                  // Always grinding.
