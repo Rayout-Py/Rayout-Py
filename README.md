@@ -2,14 +2,17 @@
 A boring person with a craving for understanding.
 
 <!-- Current Languages studying -->
-: 🍆 C#
-: 🍆 Python
-: 🍆 SQL
+<b>Languages</b><br>
+: 🍆 C#<br>
+: 🍆 Python<br>
+: 🍆 SQL<br>
 
 <!-- Current Frameworks studying -->
-: 🍑 Django
-: 🍑 .NET Framework
+<b>Current Frameworks studying</b><br>
+: 🍑 Django<br>
+: 🍑 .NET Framework<br>
 
 <!-- IDE of choice -->
-: 🌸VScode
-: 🌸Visual Studio
+<b>IDEs</b><br>
+: 🌸VScode<br>
+: 🌸Visual Studio<br>
