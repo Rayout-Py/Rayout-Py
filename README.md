@@ -4,7 +4,8 @@ A boring person with a craving for understanding and desire for gettin' that bre
 <!-- Current Languages studying -->
 <b>Languages</b><br>
 : 🍆 C#<br>
-: 🍆 Python<br>
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<br>
 : 🍆 SQL<br>
 
 <!-- Current Frameworks studying -->
@@ -16,5 +17,3 @@ A boring person with a craving for understanding and desire for gettin' that bre
 <b>IDEs</b><br>
 : 🌸VScode<br>
 : 🌸Visual Studio<br>
-: 
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
