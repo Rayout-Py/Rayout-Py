@@ -1,4 +1,4 @@
-# What up my dudes
+# What up my dudes <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
 A boring person with a craving for understanding and desire for gettin' that bread. 🍞 🍞 🍞
 
 <!-- Current Languages studying -->
