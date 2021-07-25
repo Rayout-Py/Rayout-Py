@@ -17,4 +17,4 @@ A boring person with a craving for understanding and desire for gettin' that bre
 : 🌸VScode<br>
 : 🌸Visual Studio<br>
 : 
-<link href='//cdn.jsdelivr.net/npm/devicons@1.8.0/css/devicons.min.css' rel='stylesheet'>
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
