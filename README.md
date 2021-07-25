@@ -10,7 +10,7 @@ A boring person with a craving for understanding and desire for gettin' that bre
 <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/><img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/><br>
 
 <!-- IDE of choice -->
-🍐<b>IDEs</b> : VScode and studio are just great. Other IDE's just dont do it for me.<br />
+🍐<b>IDEs</b> : VScode and studio are just great. Other IDE's dont do it for me.<br />
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/><img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/><br>
 
  🐶<b>Version Control</b> : Github Love<br />
