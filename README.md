@@ -10,7 +10,7 @@ namespace Bio                                    // This is my little slice of l
   }
 }
 ```
-# <img src="https://cdn.betterttv.net/emote/5de5904891129e77b47c9281/2x" width="50" height="50"/><img src="https://cdn.betterttv.net/emote/5b35cae2f3a33e2b6f0058ef/3x" width="50" height="50"/><img src="https://cdn.betterttv.net/emote/5ecb8f5d10aaa55e2946b37e/2x" width="50" height="50"/>
+# <img src="https://cdn.betterttv.net/emote/5b35cae2f3a33e2b6f0058ef/3x" width="50" height="50"/><img src="https://cdn.betterttv.net/emote/5ecb8f5d10aaa55e2946b37e/2x" width="50" height="50"/><img src="https://cdn.betterttv.net/emote/5c32f7f9b2b08c560f6ae60a/2x"/><img src="https://cdn.betterttv.net/emote/5c32f7f9b2b08c560f6ae60a/2x"/>
 A boring person with a craving for understanding and desire for gettin' that bread. 🍞 🍞 🍞
 
 <!-- Current Languages studying -->
@@ -35,4 +35,4 @@ A boring person with a craving for understanding and desire for gettin' that bre
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/><img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"/><br />
 <img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/><img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/><br />
 
-## <img src="https://cdn.betterttv.net/emote/5f89bb0840eb9502e222376f/2x"/> Keep Learning. Keep Going! <img src="https://cdn.betterttv.net/emote/5c32f7f9b2b08c560f6ae60a/2x"/>
+## <img src="https://cdn.betterttv.net/emote/5f89bb0840eb9502e222376f/2x"/> Keep Learning. Keep Going! <img src="https://cdn.betterttv.net/emote/5de5904891129e77b47c9281/2x" width="50" height="50"/>
