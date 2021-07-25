@@ -1,5 +1,5 @@
 # What up my dudes
-A boring person with a craving for understanding.
+A boring person with a craving for understanding and desire for gettin' that bread.
 
 <!-- Current Languages studying -->
 <b>Languages</b><br>
