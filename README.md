@@ -38,7 +38,8 @@ A boring person with a craving for understanding and desire for gettin' that bre
 <img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/><img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/><br />
 
 <img src="https://cdn.betterttv.net/emote/5f89bb0840eb9502e222376f/2x"/><img src="https://cdn.betterttv.net/emote/5de5904891129e77b47c9281/2x" width="50" height="50"/>
+##
 ```python
 print("Keep learning. Keep going!")
 ```
-##
+
