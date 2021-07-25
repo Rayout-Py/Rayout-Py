@@ -1,6 +1,6 @@
 ##
 ```c#
-namespace Rayout-Py                                    // This is my little slice of life.
+namespace Rayout-Py                              // This is my little slice of life.
 { 
  class ReadMe                                    // Mainly code I'm studying or working on for work is uploaded here.
  {
@@ -11,7 +11,7 @@ namespace Rayout-Py                                    // This is my little slic
   }
 }
 ```
-# <img src="https://cdn.betterttv.net/emote/5b35cae2f3a33e2b6f0058ef/3x" width="50" height="50"/>     <img src="https://cdn.betterttv.net/emote/5c32f7f9b2b08c560f6ae60a/2x"/>     <img src="https://cdn.betterttv.net/emote/5ecb8f5d10aaa55e2946b37e/2x" width="50" height="50"/>     <img src="https://cdn.betterttv.net/emote/5c32f7f9b2b08c560f6ae60a/2x"/>     <img src="https://cdn.betterttv.net/emote/5b35cae2f3a33e2b6f0058ef/3x" width="50" height="50"/><br />
+<img src="https://cdn.betterttv.net/emote/5b35cae2f3a33e2b6f0058ef/3x" width="50" height="50"/>     <img src="https://cdn.betterttv.net/emote/5c32f7f9b2b08c560f6ae60a/2x"/>     <img src="https://cdn.betterttv.net/emote/5ecb8f5d10aaa55e2946b37e/2x" width="50" height="50"/>     <img src="https://cdn.betterttv.net/emote/5c32f7f9b2b08c560f6ae60a/2x"/>     <img src="https://cdn.betterttv.net/emote/5b35cae2f3a33e2b6f0058ef/3x" width="50" height="50"/><br />
 A boring person with a craving for understanding and desire for gettin' that bread. <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Femojigraph.org%2Fmedia%2Ffacebook%2Fbaguette-bread_1f956.png&f=1&nofb=1" width="25" height="25"/><br />
 
 <!-- Current Languages studying -->
