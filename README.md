@@ -1,5 +1,5 @@
 # What up my dudes
-A boring person with a craving for understanding and desire for gettin' that bread.
+A boring person with a craving for understanding and desire for gettin' that bread. 🍞 🍞 🍞
 
 <!-- Current Languages studying -->
  🌱 <b>Languages</b> 🌱 : I'm currently at a beginner to intermediate level in my programming journey.<br />
