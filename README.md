@@ -3,7 +3,7 @@ A boring person with a craving for understanding and desire for gettin' that bre
 
 <!-- Current Languages studying -->
  🌱 <b>Languages</b> 🌱 : I'm currently at a beginner to intermediate level in my programming journey.<br />
-<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" content=https://docs.microsoft.com/en-us/dotnet/csharp//><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/><br>
+<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/><br>
 
 <!-- Current Frameworks studying -->
  🍑 <b>Current Frameworks studying</b> 🍑 : I have a passion for databasing. Looking to branch out into this field once I get more comfortable with programming itself.<br />
