@@ -1,12 +1,12 @@
 
 ```c#
-namespace Bio
+namespace Bio                                    // This is my little slice of life.
 {
- class ReadMe
+ class ReadMe                                    // Mainly code I'm studying or working on for work is uploaded here.
  {
-   static void Main(str[] args)
+   static void Main(str[] args)                  // Always grinding.
    {
-   Console.Writeline("What up my dudes!");
+   Console.Writeline("What up my dudes!");       // Always learning.
    }
   }
 }
