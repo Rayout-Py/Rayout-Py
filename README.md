@@ -1,4 +1,4 @@
-# What up my dudes <img src="https://cdn.betterttv.net/emote/5b35cae2f3a33e2b6f0058ef/1x" width="30" height="30"/>
+# What up my dudes <img src="https://cdn.betterttv.net/emote/5b35cae2f3a33e2b6f0058ef/3x"/>
 A boring person with a craving for understanding and desire for gettin' that bread. 🍞 🍞 🍞
 
 <!-- Current Languages studying -->
