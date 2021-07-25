@@ -1,4 +1,4 @@
-# aboutme
+# What up my dudes
 A boring person with a craving for understanding.
 
 <!-- Current Languages studying -->
