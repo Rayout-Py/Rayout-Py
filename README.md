@@ -1,8 +1,14 @@
 
 ```c#
-static void Main(str[], args)
+namespace Bio
 {
-Console.Writeline("What up my dudes");
+ class ReadMe
+ {
+   static void Main(str[] args)
+   {
+   Console.Writeline("What up my dudes!");
+   }
+  }
 }
 ```
 # <img src="https://cdn.betterttv.net/emote/5de5904891129e77b47c9281/2x" width="50" height="50"/><img src="https://cdn.betterttv.net/emote/5b35cae2f3a33e2b6f0058ef/3x" width="50" height="50"/>
