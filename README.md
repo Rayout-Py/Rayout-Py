@@ -10,7 +10,7 @@ namespace Bio                                    // This is my little slice of l
   }
 }
 ```
-# <img src="https://cdn.betterttv.net/emote/5b35cae2f3a33e2b6f0058ef/3x" width="50" height="50"/><img src="https://cdn.betterttv.net/emote/5ecb8f5d10aaa55e2946b37e/2x" width="50" height="50"/><img src="https://cdn.betterttv.net/emote/5c32f7f9b2b08c560f6ae60a/2x"/><img src="https://cdn.betterttv.net/emote/5c32f7f9b2b08c560f6ae60a/2x"/>
+# <img src="https://cdn.betterttv.net/emote/5b35cae2f3a33e2b6f0058ef/3x" width="50" height="50"/><img src="https://cdn.betterttv.net/emote/5c32f7f9b2b08c560f6ae60a/2x"/><img src="https://cdn.betterttv.net/emote/5ecb8f5d10aaa55e2946b37e/2x" width="50" height="50"/><img src="https://cdn.betterttv.net/emote/5c32f7f9b2b08c560f6ae60a/2x"/><img src="https://cdn.betterttv.net/emote/609c546a67644f1d67e8500a/2x" width="50" height="50"/><img src="https://cdn.betterttv.net/emote/5b35cae2f3a33e2b6f0058ef/3x" width="50" height="50"/><br />
 A boring person with a craving for understanding and desire for gettin' that bread. 🍞 🍞 🍞
 
 <!-- Current Languages studying -->
