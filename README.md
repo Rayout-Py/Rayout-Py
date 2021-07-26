@@ -25,6 +25,7 @@ A boring person with a craving for understanding and a desire for gettin' that b
 
 <!-- IDE of choice -->
 |🍐 <b>IDEs</b> 🍐 : VScode and studio are just great. Other IDE's dont do it for me.|<br />
+---------------------------------------------------------------------------------------
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/><img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/><br>
 
  🐶 <b>Version Control</b> 🐶 : Github Love.<br />
